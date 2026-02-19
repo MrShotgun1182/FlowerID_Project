@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "15198782bf99ee03",
+    "type": "split",
+    "children": [
+      {
+        "id": "07acf0ea6f92be87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b62db1d25be88f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "انتخاب مدل هوش مصنوعی - پروژه FlowerID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "انتخاب مدل هوش مصنوعی - پروژه FlowerID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daf55ec16541c332",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a507d11dd7742b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5adb8aaa42cdc616",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d8af980d7b1b218",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53f5d649e3e0f467",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa7adc18cfd82b5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c0ad8da60be8b64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fbbe99e3a7b1eb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "انتخاب مدل هوش مصنوعی - پروژه FlowerID.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for انتخاب مدل هوش مصنوعی - پروژه FlowerID"
+            }
+          },
+          {
+            "id": "9951f9c39c2c1bbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "انتخاب مدل هوش مصنوعی - پروژه FlowerID.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from انتخاب مدل هوش مصنوعی - پروژه FlowerID"
+            }
+          },
+          {
+            "id": "e5055b1643a6455c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b8ce3846001a0ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2f6a89bd1683c0d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "انتخاب مدل هوش مصنوعی - پروژه FlowerID.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of انتخاب مدل هوش مصنوعی - پروژه FlowerID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b62db1d25be88f95",
+  "lastOpenFiles": []
+}
